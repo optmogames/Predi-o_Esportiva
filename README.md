@@ -23,5 +23,7 @@ Segundo Chapman P. (2000) a metodologia CRISP-DM(Cross-Industry Standard Process
 - Cristiano Ferreira
 - Fabricio Tocollini
 - Robson Souza Miranda
+    - https://github.com/Robson86
 - Ulisses Bomjardim
+    - https://github.com/optmogames
 
