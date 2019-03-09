@@ -1,0 +1,12 @@
+host: 35.239.231.2
+port: 3306
+db: db_mining
+user: root
+psw: vkCgcJhnBDOlcrdK
+
+
+host: 35.239.231.2
+port: 3306
+db: db_mining
+user:posbi15_app
+psw: x8xVYFfwBYZBFud
